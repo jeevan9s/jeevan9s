@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Jeevan Sanchez</h1>
-<h3 align="center">A Grade 11 Student interested in electronics + programming</h3>
+<h3 align="center">A Grade 11 Student interested in electronics</h3>
 
 
 
