@@ -1,6 +1,6 @@
 <h1 align="center">Jeevan Sanchez</h1>
-<hr>
 <h3 align="center">Senior Year High-School Student</h3>
+<hr>
 
 
 
