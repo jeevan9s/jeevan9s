@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 
 <h2 align="left"><b>About Me</b></h2>
@@ -7,11 +6,12 @@
 
 <h3 align="left"><b>Specializations & Interests</b></h3>
 <ul>
-  <li><i class="fas fa-circuit-board"></i> PID Algorithm for controller system</li>
-
-
-  
+  <li>PID Algorithm for Control System</li>
+  <li>ESP32 Home-Automation</li>
+  <li>Data Manipulation/Visualization in Python with pandas, and MatPlotLib</li>
 </ul>
+
+<p>I'm currently learning React, and ML/DL techniques, algorithms, and frameworks in Python.</p>
 
 
 
