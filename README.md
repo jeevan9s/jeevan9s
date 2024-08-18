@@ -1,5 +1,4 @@
 
-
 <h2 align="left"><b>About Me</b></h2>
 <p align="left">Senior HS Student passionate about control systems, circuitry, and data structures & algorithms.</p>
 <hr>
@@ -9,7 +8,7 @@
   <li>PID Algorithm for Control Systems</li>
   <li>ESP32 Home-Automation</li>
   <li>Hardware & Circuit Design with KiCad, AutoCAD</li>
-  <li>#128202  Data Manipulation/Visualization in Python with pandas, and MatPlotLib</li>
+  <li>&#128202  Data Manipulation/Visualization in Python with pandas, and MatPlotLib</li>
 </ul>
 
 <p>I'm currently learning React, and ML/DL techniques, algorithms & frameworks in Python.</p>
