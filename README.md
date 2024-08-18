@@ -1,5 +1,5 @@
-<h2 align="left">About Me</h2>
-<h3 align="lefet">Senior Year High-School Student</h3>
+<h2 align="left"><b>About Me</b></h2>
+<h5 align="left">Senior Year High-School Student</h5>
 <hr>
 
 
