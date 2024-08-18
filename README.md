@@ -1,4 +1,4 @@
-<h1 align="center">Jeevan Sanchez</h1>
+<h2 align="right">About me</h2>
 <h3 align="center">Senior Year High-School Student</h3>
 <hr>
 
