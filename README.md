@@ -1,5 +1,5 @@
 <h2 align="left"><b>About Me</b></h2>
-<h5 align="left">Senior Year High-School Student</h5>
+<h5 align="left">Senior HS Student passionate about control systems, circuitry, and data structures & algorithms.</h5>
 <hr>
 
 
