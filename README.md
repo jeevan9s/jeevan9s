@@ -6,12 +6,13 @@
 
 <h3 align="left"><b>Specializations & Interests</b></h3>
 <ul>
-  <li>PID Algorithm for Control System</li>
+  <li>PID Algorithm for Control Systems</li>
   <li>ESP32 Home-Automation</li>
-  <li>Data Manipulation/Visualization in Python with pandas, and MatPlotLib</li>
+  <li>Hardware & Circuit Design with KiCad, AutoCAD</li>
+  <li>#128202  Data Manipulation/Visualization in Python with pandas, and MatPlotLib</li>
 </ul>
 
-<p>I'm currently learning React, and ML/DL techniques, algorithms, and frameworks in Python.</p>
+<p>I'm currently learning React, and ML/DL techniques, algorithms & frameworks in Python.</p>
 
 
 
