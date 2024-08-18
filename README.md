@@ -1,8 +1,17 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+
 <h2 align="left"><b>About Me</b></h2>
 <p align="left">Senior HS Student passionate about control systems, circuitry, and data structures & algorithms.</p>
 <hr>
 
-<h4 align="left"><b>Specializations & Interests</b></h4>
+<h3 align="left"><b>Specializations & Interests</b></h3>
+<ul>
+  <li><i class="fas fa-circuit-board"></i> PID Algorithm for controller system</li>
+
+
+  
+</ul>
 
 
 
