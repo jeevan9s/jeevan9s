@@ -5,9 +5,9 @@
 
 <h3 align="left"><b>Specializations & Interests</b></h3>
 <ul>
-  <li>PID Algorithm for Control Systems</li>
-  <li>ESP32 Home-Automation</li>
-  <li>Hardware & Circuit Design with KiCad, AutoCAD</li>
+  <li>&#9881; PID Algorithm for Control Systems</li>
+  <li>&#127968  ESP32 Home-Automation</li>
+  <li>&#9889;  Hardware & Circuit Design with KiCad, AutoCAD</li>
   <li>&#128202  Data Manipulation/Visualization in Python with pandas, and MatPlotLib</li>
 </ul>
 
