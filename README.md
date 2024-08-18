@@ -16,7 +16,7 @@
 
 
 
-<p>I'm currently learning React, and ML/DL techniques, algorithms & frameworks in Python.</p>
+<p>I'm currently learning React, ML/DL techniques, and algorithms & frameworks in Python.</p>
 
 <hr>
 
