@@ -11,6 +11,7 @@
   <li>&#128202  Data Manipulation/Visualization in Python with pandas, and MatPlotLib</li>
 </ul>
 
+<hr style="border: none; border-top: 2px dashed #000; margin: 20px 0;">
 
 
 
