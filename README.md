@@ -16,7 +16,7 @@
 
 
 
-<p>I'm currently learning ReactJS for web development.</p>
+<p>I'm currently learning React JS for web development.</p>
 
 <hr>
 
