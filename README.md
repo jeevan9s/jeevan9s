@@ -16,7 +16,7 @@
 
 
 
-<p>I'm currently developing my **portfolio** website.</p>
+<p>I'm currently developing my <b>portfolio</b> website.</p>
 
 <hr>
 
