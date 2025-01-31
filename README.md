@@ -16,7 +16,7 @@
 
 
 
-<p>I'm currently developing my <b>portfolio</b>, and learning **Machine Learning** website.</p>
+<p>I'm currently developing my <b>portfolio</b> website, and learning <b>Machine Learning</b> </p>
 
 <hr>
 
