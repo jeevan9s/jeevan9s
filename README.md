@@ -5,10 +5,8 @@
 
 <h3 align="left"><b>Specializations & Interests</b></h3>
 <ul>
-  <li>&#9881; PID Control</li>
-  <li>&#127968  ESP32 Home-Automation</li>
-  <li>&#9889;  Hardware & Circuit Design with KiCad, AutoCAD</li>
-  <li>&#128202  Data Manipulation/Visualization in Python with pandas, and MatPlotLib</li>
+  <li>&#9881; Robotics & Control Systems</li>
+  <li>&#9889; Machine Learning (Automation, Embedded)</li>
 </ul>
 
 
@@ -16,7 +14,7 @@
 
 
 
-<p>I'm currently developing my <b>portfolio</b> website, and learning <b>Machine Learning</b> </p>
+<p>I'm currently developing my <b>portfolio</b> website.</p>
 
 <hr>
 
