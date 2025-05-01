@@ -6,7 +6,7 @@
 <h3 align="left"><b>Specializations & Interests</b></h3>
 <ul>
   <li>&#9881; Robotics & Control Systems</li>
-  <li>&#9889; Machine Learning (Automation, Embedded)</li>
+  <li>&#129521; Machine Learning (Automation, Embedded)</li>
 </ul>
 
 
