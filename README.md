@@ -14,7 +14,7 @@
 
 
 
-<p>I'm currently developing my <b>portfolio</b> website.</p>
+<p>I'm currently developing an Electron desktop app for academic productivity.</p>
 
 <hr>
 
