@@ -14,7 +14,7 @@
 
 
 
-<p>I'm currently developing an Electron desktop app for academic productivity.</p>
+<p>I'm currently developing an **Electron** app for **academic productivity**.</p>
 
 <hr>
 
