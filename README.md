@@ -14,7 +14,7 @@
 
 
 
-<p>I'm currently developing an <b>Electron</b> app for <b>academic productivity</b>.</p>
+<p>I'm currently  developing _Calmeca_, an <b>Electron</b> app for <b>academic productivity</b>.</p>
 
 <hr>
 
