@@ -1,6 +1,6 @@
 
 <h2 align="left"><b>About Me</b></h2>
-<p align="left">Incoming first-year Computer Engineering student passionate about control systems, circuitry, and data structures & algorithms.</p>
+<p align="left">Incoming first-year Computer Engineering student passionate about control systems, circuitry, and DSA.</p>
 <hr>
 
 <h3 align="left"><b>Specializations & Interests</b></h3>
