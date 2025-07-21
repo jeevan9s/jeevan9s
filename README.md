@@ -14,7 +14,7 @@
 
 
 
-<p>I'm currently  developing <i>Calmeca</i>, an <b>Electron</b> app for <b>academic productivity</b>, and working through <b>CS50AI</b>.</p>
+<p>I'm currently  developing <i>Calmeca</i>, an <b>Electron</b> app for <b>academic productivity</b>.
 
 <hr>
 
