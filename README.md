@@ -14,7 +14,7 @@
 
 
 
-<p>I'm currently  developing <i>Calmeca</i>, an <b>Electron</b> app for <b>academic productivity</b>.
+<p>I'm currently  designing <i>homectrl</i>, a <b>home-automation PCB controller</b>, and a <b>PID-opencv-controlled Ball-Balancing System</b>.
 
 <hr>
 
