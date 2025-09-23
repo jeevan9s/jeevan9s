@@ -1,28 +1,28 @@
+<h1>
+  what's up! 
+  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" 
+       width="35" height="35" 
+       alt="wave" 
+       style="vertical-align: text-bottom;">
+</h1>
 
-<h2 align="left"><b>About Me</b></h2>
-<p align="left">First-year computer engineering student; passionate about circuitry, control systems, and data structures & algorithms.</p>
-<hr>
+<img src="/Untitled design.gif" alt="Jeevan Banner" width="100%" />
 
-<h3 align="left"><b>Specializations & Interests</b></h3>
-<ul>
-  <li>&#9881; Robotics & Control Systems</li>
-  <li>&#129504; Machine Learning (Automation, Embedded)</li>
-</ul>
+<strong>first year Comp Eng. student into embedded & AI systems.</strong>
+
+* I mainly work with: `.py` `.ts` `.js` `.tsx` `.ino` `.cpp` `.c`  `.pcb` `.sch` `.stl`
+* my core hardware stack consists of: `ESP32` `Arduino` `Raspberry Pi`
+* digitals tools and libraries I use often are:  `KiCad` `Fusion360` `opencv` `tensorflow` 
+
+<br>
+
+&rarr; currently developing [*Calmeca*](https://github.com/jeevan9s/Calmeca), an academic organization Electron-React app.
+<br>
+&rarr; recently designed [*homectrl*](https://github.com/jeevan9s/homectrl-sys), an ESP32-powered home automation controller.
+
+#### feel free to ping me @ 
+[``email``](mailto:jeevansanchez42@gmail.com)&nbsp;&nbsp;&nbsp; [``LinkedIn``](https://linkedin.com/in/jeevansanchez)
 
 
 
-
-
-
-<p>I'm currently  designing <i>homectrl</i>, a <b>home-automation PCB controller</b>, and a <b>PID-opencv-controlled Ball-Balancing System</b>.
-
-<hr>
-
-<h3 align="center">Languages and Tools</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,arduino,electron,react,nextjs,tailwind,flask,tensorflow,sklearn,git" />
-  </a>
-</p>
 
