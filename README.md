@@ -21,7 +21,7 @@
 &rarr; recently designed [*homectrl*](https://github.com/jeevan9s/homectrl-sys), an ESP32-powered home automation controller.
 
 #### feel free to ping me @ 
-[``email``](mailto:jeevansanchez42@gmail.com)&nbsp;&nbsp;&nbsp; [``LinkedIn``](https://linkedin.com/in/jeevansanchez)
+[`email`](mailto:jeevansanchez42@gmail.com)&nbsp;&nbsp;&nbsp; [``LinkedIn``](https://linkedin.com/in/jeevansanchez)
 
 
 
