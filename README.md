@@ -17,6 +17,7 @@
 <br>
 
 &rarr; currently developing [*Calmeca*](https://github.com/jeevan9s/Calmeca), an academic organization Electron-React app.
+&rarr; also designing a LC (launch control) integrated board for the Queen's Rocket Engineering Team.
 <br>
 &rarr; recently designed [*homectrl*](https://github.com/jeevan9s/homectrl-sys), an ESP32-powered home automation controller.
 
