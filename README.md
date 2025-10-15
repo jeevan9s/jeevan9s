@@ -14,12 +14,11 @@
 * my core hardware stack consists of: `ESP32` `Arduino` `Raspberry Pi`
 * digitals tools and libraries I use often are:  `KiCad` `Fusion360` `opencv` `tensorflow` 
 
-<br>
 &rarr; currnently designing a LC (launch control) board for the Queen's Rocket Engineering Team.
 <br>
 &rarr; also finishing up [*Calmeca*](https://github.com/jeevan9s/Calmeca), an academic organization Electron-React app.
 <br>
-&rarr; recently designed [*homectrl*](https://github.com/jeevan9s/homectrl-sys), an ESP32-powered home automation controller.
+&rarr; recently built [*homectrl*](https://github.com/jeevan9s/homectrl-sys), an ESP32-powered home automation controller.
 
 #### feel free to ping me @ 
 [`email`](mailto:jeevansanchez42@gmail.com)&nbsp;&nbsp;&nbsp; [``LinkedIn``](https://linkedin.com/in/jeevansanchez)
