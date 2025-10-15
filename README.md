@@ -15,10 +15,9 @@
 * digitals tools and libraries I use often are:  `KiCad` `Fusion360` `opencv` `tensorflow` 
 
 <br>
-
-&rarr; currently developing [*Calmeca*](https://github.com/jeevan9s/Calmeca), an academic organization Electron-React app.
+&rarr; currnently designing a LC (launch control) board for the Queen's Rocket Engineering Team.
 <br>
-&rarr; also designing a LC (launch control) integration board for the Queen's Rocket Engineering Team.
+&rarr; also finishing up [*Calmeca*](https://github.com/jeevan9s/Calmeca), an academic organization Electron-React app.
 <br>
 &rarr; recently designed [*homectrl*](https://github.com/jeevan9s/homectrl-sys), an ESP32-powered home automation controller.
 
