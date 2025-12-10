@@ -14,7 +14,7 @@
 * my core hardware stack consists of: `ESP32` `Arduino` `Raspberry Pi`
 * digitals tools and libraries I use often are:  `KiCad` `Fusion360` `opencv` `tensorflow` 
 
-&rarr; currently designing a LC (launch control) board for the Queen's Rocket Engineering Team.
+&rarr; currently designing a propulsion integration board for the Queen's Rocket Engineering Team.
 <br>
 &rarr; also implementing a Langchain entity extraction pipeline in [*Calmeca*](https://github.com/jeevan9s/Calmeca), an academic organization Electron-React desktop app.
 <br>
