@@ -10,7 +10,7 @@
 
 <strong>first year Comp Eng. student into embedded & AI systems.</strong>
 
-* I mainly work with: `.py` `.ts` `.js` `.tsx` `.ino` `.cpp` `.c`  `.pcb` `.sch` `.stl`
+* I mainly work with: `.py` `.ts` `.js` `.tsx` `.ino` `.cpp` `.c`  `.kicad_pcb` `.kicad_sch` `.stl`
 * my core hardware stack consists of: `ESP32` `Arduino` `Raspberry Pi`
 * digitals tools and libraries I use often are:  `KiCad` `Fusion360` `opencv` `tensorflow` 
 
