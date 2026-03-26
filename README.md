@@ -11,7 +11,7 @@
 <strong>first year Comp Eng. student into embedded, full-stack dev, and AI systems.</strong>
 
 * I mainly work with: `.ts` `.cpp` `.tsx` `.py` `.ino`  `.c` `.js` `.kicad_pcb` `.kicad_sch` `.stl`
-* my core hardware stack consists of: `ESP32` `Arduino` `Raspberry Pi`
+* my core hardware stack consists of: `ESP32` `Arduino` `Raspberry Pi` `STM32`
 * digitals tools and libraries I use often are:  `KiCad` `Fusion360` `opencv` `tensorflow` 
 
 &rarr; currently designing a second propulsion integration board for the Queen's Rocket Engineering Team.
