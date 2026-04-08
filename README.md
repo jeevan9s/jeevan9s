@@ -8,15 +8,15 @@
 
 <img src="/Untitled design.gif" alt="Jeevan Banner" width="100%" />
 
-<strong>first year Comp Eng. student into embedded, full-stack dev, and AI systems.</strong>
+<strong>first year Comp Eng. student into hardware design, embedded systems, and AI.</strong>
 
-* I mainly work with: `.ts` `.cpp` `.tsx` `.py` `.ino`  `.c` `.js` `.kicad_pcb` `.kicad_sch` `.stl`
+* I mainly work with: `.cpp` `.py` `.c` `.kicad_ocb` `.kicad_sch``ts` `.js` `tsx` `.stl`
 * my core hardware stack consists of: `ESP32` `Arduino` `Raspberry Pi` `STM32`
 * digitals tools and libraries I use often are:  `KiCad` `Fusion360` `opencv` `tensorflow` 
 
-&rarr; currently designing a second propulsion integration board for the Queen's Rocket Engineering Team.
+&rarr; just designed two propulsion integration board for the Queen's Rocket Engineering Team.
 <br>
-&rarr; just wrapped up a second revision for [*homectrl*](https://github.com/jeevan9s/homectrl-sys), an custom (PCB) designed home-automation controller.
+&rarr; recently wrapped up a second revision for [*homectrl*](https://github.com/jeevan9s/homectrl-sys), a custom (PCB) designed home-automation controller.
 <br>
 &rarr; also implementing a Langchain entity extraction pipeline in [*Calmeca*](https://github.com/jeevan9s/Calmeca), an academic organization Electron-React desktop app.
 
