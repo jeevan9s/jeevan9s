@@ -6,7 +6,7 @@
        style="vertical-align: text-bottom;">
 </h1>
 
-<img src="/Untitled design.gif" alt="Jeevan Banner" width="100%" />
+<img src="/banner2.gif" alt="Jeevan Banner" width="100%" />
 
 <strong>first year Comp Eng. student into hardware design, embedded systems, and AI.</strong>
 
