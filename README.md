@@ -14,7 +14,7 @@
 * my core hardware stack consists of: `ESP32` `Arduino` `Raspberry Pi` `STM32`
 * digitals tools and libraries I use often are:  `KiCad` `Fusion360` `opencv` `tensorflow` 
 
-&rarr; currently designing a controller for a micro-robot capabable of traversing a maze
+&rarr; currently designing a controller for a micro-robot capabable of traversing a maze.
 <br>
 &rarr; just designed two propulsion integration (control) boards for the Queen's Rocket Engineering Team.
 <br>
