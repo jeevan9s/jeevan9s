@@ -14,6 +14,8 @@
 * my core hardware stack consists of: `ESP32` `Arduino` `Raspberry Pi` `STM32`
 * digitals tools and libraries I use often are:  `KiCad` `Fusion360` `opencv` `tensorflow` 
 
+&rarr; currently designing a controller for a micro-robot capabable of traversing a maze
+<br>
 &rarr; just designed two propulsion integration (control) boards for the Queen's Rocket Engineering Team.
 <br>
 &rarr; recently wrapped up a second revision for [*homectrl*](https://github.com/jeevan9s/homectrl-sys), a custom (PCB) designed home-automation controller.
