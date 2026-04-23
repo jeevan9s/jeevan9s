@@ -8,7 +8,7 @@
 
 <img src="/README_Banner2.gif" alt="Jeevan Banner" width="100%" />
 
-<strong>first year Comp Eng. student into hardware design, embedded systems, and AI.</strong>
+<strong>Comp Eng. student into hardware design, embedded systems, and AI.</strong>
 
 * I mainly work with: `.cpp` `.py` `.c` `.kicad_ocb` `.kicad_sch` `ts` `.js` `tsx` `.stl`
 * my core hardware stack consists of: `ESP32` `Arduino` `Raspberry Pi` `STM32`
