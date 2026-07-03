@@ -10,18 +10,20 @@
 
 <strong>Comp Eng. student into hardware design, embedded systems, and AI.</strong>
 
-* I mainly work with: `.cpp` `.py` `.c` `.kicad_pcb` `.kicad_sch` `ts` `.js` `tsx` `.stl`
-* my core hardware stack consists of: `ESP32` `Arduino` `Raspberry Pi` `STM32`
-* digitals tools and libraries I use often are:  `KiCad` `Fusion360` `opencv` `tensorflow` 
+* I mainly write in `.cpp` `.c` `.py`
+* I design hardware with  `KiCad` and `Fusion360 `
 
-&rarr; currently designing a controller for a differential-drive robot with onboard vision in [*penguin-bot*](https://github.com/jeevan9s/penguin-bot)
-<br>
-&rarr; just designed two propulsion integration (control) boards for the Queen's Rocket Engineering Team.
-<br>
-&rarr; recently wrapped up a second revision for [*homectrl*](https://github.com/jeevan9s/homectrl-sys), a custom (PCB) designed home-automation controller.
-<br>
-&rarr; also implementing a Langchain entity extraction pipeline in [*Calmeca*](https://github.com/jeevan9s/Calmeca), an academic organization Electron-React desktop app.
+---
 
+**currently**
+
+&rarr; testing newly-manufactured controller and developing firmware/docs in [*penguin-bot*](https://github.com/jeevan9s/penguin-bot), my robot
+<br>
+
+&rarr; just shipped [*homectrl*](https://github.com/jeevan9s/homectrl-sys) for manufacturing, a custom (PCB) home-automation controller.
+<br>
+
+&rarr; implementing a Langchain entity extraction pipeline in [*Calmeca*](https://github.com/jeevan9s/Calmeca), an academic organization Electron-React desktop app.
 
 #### feel free to ping me @ 
 [`email`](mailto:jeevansanchez42@gmail.com)&nbsp;&nbsp;&nbsp; [``LinkedIn``](https://linkedin.com/in/jeevansanchez)
