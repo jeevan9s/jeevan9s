@@ -25,7 +25,7 @@
 
 &rarr; implementing a Langchain entity extraction pipeline in [*Calmeca*](https://github.com/jeevan9s/Calmeca), an academic organization Electron-React desktop app.
 
-#### feel free to ping me @ 
+#### ping me @ 
 [`email`](mailto:jeevansanchez42@gmail.com)&nbsp;&nbsp;&nbsp; [``LinkedIn``](https://linkedin.com/in/jeevansanchez)
 
 
