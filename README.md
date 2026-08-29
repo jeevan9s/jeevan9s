@@ -2,7 +2,7 @@
   hey, I'm Jeevan.
 </h1>
 
-<img src="/README_Banner2.gif" alt="Jeevan Banner" width="100%" />
+
 
 <strong>Comp Eng. student into embedded systems and edge AI. </strong>
 
