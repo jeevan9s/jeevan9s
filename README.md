@@ -2,9 +2,7 @@
   hey, I'm Jeevan.
 </h1>
 
-
-
-<strong>Comp Eng. student into embedded systems and edge AI. </strong>
+<strong>hw/fw development for avionics, intelligent robotics, and embedded AI.</strong>
 
 * I design hardware with  `KiCad`
 * I write in `.cpp` `.c` `.py`
