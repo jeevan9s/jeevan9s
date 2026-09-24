@@ -4,7 +4,7 @@
 * I design hardware with  `KiCad`
 * I write in `.cpp` `.c` `.py`
 
-[jeevansanchez.com](www.jeevansanchez.com)
+[jeevansanchez.com](https://jeevansanchez.com)
 
 ---
 
